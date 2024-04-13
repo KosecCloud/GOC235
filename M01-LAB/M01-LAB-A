@@ -30,7 +30,7 @@ Virtual machine:  **HYD-DC1**
 
 1. On the host computer, start Hyper-V Manager.
 
-2. In Hyper-V Manager, click  **20703-2A-LON-DC1-A**, and then in the Actions pane, click  **Start**.
+2. In Hyper-V Manager, click  **DC1**, and then in the Actions pane, click  **Start**.
 
 3. In the Actions pane, click  **Connect**. Wait until the VM starts.
 
@@ -40,7 +40,7 @@ Virtual machine:  **HYD-DC1**
 
   - Password:  **Pa55w.rd**
 
-  - Domain:  **Adatum**
+  - Domain:  **CORP**
 
 5.  **For on-premises VM environments only:** Start **MT17B-WS2016-NAT**, which provides Internet access for the VMs.
 
